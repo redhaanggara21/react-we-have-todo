@@ -1,1 +1,1 @@
-youmean
+copy env.example for create new file .env to be main .env
